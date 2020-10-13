@@ -1,0 +1,1 @@
+pyuic5 -x ui/main.ui -o form/mainForm.py
